@@ -1,11 +1,9 @@
-import os
+import os 
 from dotenv import load_dotenv
 
 load_dotenv()
-
-x = os.getenv("PLAYER_NAME")
-print(x)
-
+x=os.getenv("PLAYER_NAME")
+print (x)
 
 import random 
 
