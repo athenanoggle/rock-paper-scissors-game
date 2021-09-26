@@ -44,6 +44,6 @@ elif user_choice == "scissors":
         print("Scissors cut paper. You win.")
     else:
         print("Rock smashes scissors. You lose.")
-
+ 
 print ("Thanks for playing. Play again!")
 
